@@ -1,0 +1,39 @@
+{
+  "name": "widespread",
+  "version": "1.0.0",
+  "description": "Your Virtual Parallel",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WideSpreadX/widespread.git"
+  },
+  "keywords": [
+    "widespread",
+    "search",
+    "work",
+    "school",
+    "create",
+    "communicate",
+    "community",
+    "automotive",
+    "science",
+    "media",
+    "news",
+    "entertainment",
+    "navigation",
+    "storage"
+  ],
+  "author": "Jonny O",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WideSpreadX/widespread/issues"
+  },
+  "homepage": "https://github.com/WideSpreadX/widespread#readme",
+  "dependencies": {
+    "react-iframe": "^1.8.0",
+    "react-router-dom": "^5.0.1"
+  }
+}
